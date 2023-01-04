@@ -1,6 +1,6 @@
 # Hi there 👋
 # 💫 About Me:
-A professional undergraduate with the commitment along with experience to develop innovative and creative software and hardware solutions. The willingness to learn and demonstrate new skills with a desire to thrive in all aspects. 
+A professional undergraduate with the commitment along with experience to develop innovative software and hardware solutions.
 
 
 ## 🌐 Socials:
