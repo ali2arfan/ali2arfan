@@ -1,6 +1,6 @@
 # Hi there 👋
 # 💫 About Me:
-A professional undergraduate with the commitment along with experience to develop innovative software and hardware solutions.
+Computer Hardware and Software Engineer.
 
 
 ## 🌐 Socials:
